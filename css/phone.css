@@ -1,0 +1,30 @@
+.columns{
+    grid-template-columns: auto;
+    justify-content: center;
+}
+
+.box{
+    height: 200px;
+    width: 500px;
+    background-color: #DFD7C9;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 20px;
+}
+
+.box h2{
+    color: #586B77;
+    font-size: 2rem;
+    margin-bottom: 40px;
+}
+
+.box p{
+    color: #513a25;
+    font-size: 1.1rem;
+}
+
+.quote{
+    font-size: 1.3rem;
+    padding-top: 30px;
+    text-align: center;
+}
